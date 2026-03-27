@@ -26,6 +26,10 @@ Execute Django admin and create details for 10 cars
 
 # PROGRAM 
 
+NAME : ANTONY ABISHEK 
+
+REG NO : 212223240009
+
 ```
 from django.contrib import admin
 from .models import Loan
